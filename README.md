@@ -30,7 +30,7 @@ former intern @ ava technologies inc. 🌱
 <h4 align="left">fun facts:</h4>
 <ul>
 <li align="left">i'm part of a dragonboat team called 'firetruck'! 🚒</li>
-<ul><li align="left">i've been to nationals once and two world championships so far!</li></ul>
+<ul><li align="left">i've been to one nationals and two world championships so far!</li></ul>
 <li align="left">i love listening to music</li>
 <ul><li align="left">in 2021 i had over 124k minutes on spotify! in 2022 i had over 112k minutes on spotify</li>
 <li align="left">my favourite genres are: chill r&b and korean r&b</li></ul>
