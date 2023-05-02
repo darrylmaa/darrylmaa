@@ -21,9 +21,10 @@ i'm <a href="https://darrylmaa.github.io/">darryl</a>, a 4th year science studen
 i have interests in software development and data science
 </h4>
 </br></br>
-<h3 align="center">💼 i'm currently seeking internships for summer 2023 onward 💼</h3>
+<h3 align="center">💼 i'm currently seeking internships for fall 2023 onward 💼</h3>
 </br></br>
 <p align="center">
+current intern @ pharmaplanters tecnologies.</br>
 former intern @ ava technologies inc. 🌱
 </p>
 
