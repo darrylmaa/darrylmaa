@@ -24,7 +24,7 @@ i have interests in software development and data science
 <h3 align="center">💼 i'm currently seeking internships for fall 2023 onward 💼</h3>
 </br></br>
 <p align="center">
-current intern @ pharmaplanters tecnologies.</br>
+current intern @ pharmaplanters tecnologies. 🐁</br>
 former intern @ ava technologies inc. 🌱
 </p>
 
@@ -35,7 +35,7 @@ former intern @ ava technologies inc. 🌱
 <li align="left">i love listening to music</li>
 <ul><li align="left">in 2021 i had over 124k minutes on spotify! in 2022 i had over 112k minutes on spotify</li>
 <li align="left">my favourite genres are: chill r&b and korean r&b</li></ul>
-<li align="left">i have over 100 animal pictures saved on my phone (none of them are mine!)</li>
+<li align="left">i have over 300 animal pictures saved on my phone (none of them are mine!)</li>
 </ul>
 
 <h4 align="left">contact me here:</h4>
