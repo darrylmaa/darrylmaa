@@ -21,9 +21,10 @@ i'm <a href="https://darrylmaa.github.io/">darryl</a>, a 4th year science studen
 i have interests in software development and data science
 </h4>
 </br></br>
-<h3 align="center">💼 i'm currently seeking internships for spring 2024 onward 💼</h3>
+<h3 align="center">💼 i'm currently seeking internships for fall 2024 onward 💼</h3>
 </br></br>
 <p align="center">
+current intern @ incognito software systems 🕵️</br>
 former intern @ pharmaplanters technologies. 🐁</br>
 former intern @ ava technologies inc. 🌱
 </p>
@@ -31,7 +32,7 @@ former intern @ ava technologies inc. 🌱
 <h4 align="left">fun facts:</h4>
 <ul>
 <li align="left">i'm part of a dragonboat team called 'firetruck'! 🚒</li>
-<ul><li align="left">i've been to two nationals (regina 2019, welland 2023) and two world championships (divonne-les-bains 2017, sarasota 2022) so far!</li></ul>
+<ul><li align="left">i've been to two national championships (regina 2019, welland 2023) and two world championships (divonne-les-bains 2017, sarasota 2022) so far!</li></ul>
 <li align="left">i love listening to music</li>
 <ul><li align="left">in 2021 i had over 124k minutes on spotify! in 2022 i had over 112k minutes on spotify</li>
 <li align="left">my favourite genres are: chill r&b and korean r&b</li></ul>
